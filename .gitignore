@@ -1,0 +1,15 @@
+# Ignore configuration file with database credentials
+config.php
+
+# Ignore reset password script (security)
+reset_password.php
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
