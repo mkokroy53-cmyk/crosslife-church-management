@@ -1,6 +1,5 @@
 ﻿﻿# Church Pro .htaccess
 
-
 # Optimized for Apache 2.4+
 <IfModule mod_rewrite.c>
     RewriteEngine On
@@ -11,3 +10,4 @@
 <FilesMatch "\.(env|log|sql|md)$">
     Require all denied
 </FilesMatch>
+
